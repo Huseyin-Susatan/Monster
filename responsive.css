@@ -1,0 +1,94 @@
+@media only screen and (max-width: 600px) {
+  .yeni-fırsat {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .yeni-fırsat-resim1 {
+    max-width: 280px;
+  }
+  .footer img {
+    max-width: 70px;
+  }
+  .footer p {
+    font-size: 7px;
+  }
+  .div2 {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .div2 img {
+    max-width: 280px;
+  }
+  .div2 .div4 {
+    order: 2;
+  }
+  .div2 .div4 {
+    order: 1;
+  }
+  .div6 {
+    flex-direction: column;
+  }
+  .div6 img {
+    max-width: 280px;
+  }
+  .div6ara,
+  .div7 {
+    width: 100%;
+  }
+  .div8 {
+    flex-direction: column;
+  }
+  .div8 img {
+    max-width: 280px;
+  }
+  .div19 {
+    flex-direction: column;
+  }
+  .div20,
+  .div21 {
+    width: 100%;
+  }
+  .div11 {
+    flex-direction: column;
+  }
+  .div11 img {
+    max-width: 280px;
+  }
+  .div13,
+  .div12 {
+    width: 100%;
+  }
+  .div13 {
+    order: 2;
+  }
+  .div12 {
+    order: 1;
+  }
+
+  .div14{
+    flex-direction: column;
+  }
+  .div14 img{
+    max-width: 280px;
+  }
+  .bottom .div26{
+    padding: 0 2rem;
+  }
+
+  .footer-desktop{
+    display: none;
+  }
+  .footer-mobile{
+    display: block;
+  }
+
+  .panel{
+    text-align: center;
+  }
+
+
+
+
+  /* Accordion*/
+  
+}
