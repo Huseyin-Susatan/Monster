@@ -33,7 +33,7 @@ footer ul li {
   background-size: cover;
   background-position: center;
 }
-.white-section-bg{
+.white-section-bg {
   background-image: url("./img/backin.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -45,12 +45,12 @@ footer ul li {
   /* max-width: 1200px; */
   /* margin: 0 auto; */
 }
-header{
-  background-color: #1B1C1D;
-  border-bottom: 1px solid #00FF00;
+header {
+  background-color: #1b1c1d;
+  border-bottom: 1px solid #00ff00;
 }
 header .newContainer {
-  padding: 1rem ;
+  padding: 1rem;
 }
 .yeni-fırsat {
   /* background-color: gray; */
@@ -129,7 +129,11 @@ header .newContainer {
 .link5 {
   color: white;
 }
-.container a{
+.link6 {
+  text-decoration: none;
+  color: black;
+}
+.container a {
   color: #a4a4a5;
   text-decoration: none;
 }
@@ -202,20 +206,19 @@ label {
   width: 60%;
 }
 
-.div10 img{
+.div10 img {
   max-width: 450px;
 }
 
-.div6ara img{
+.div6ara img {
   max-width: 600px;
-
 }
 .div7 {
   display: flex;
   flex-direction: column;
   width: 40%;
 }
-.div7 img{
+.div7 img {
   max-width: 400px;
 }
 .div8 {
@@ -239,30 +242,27 @@ label {
   width: 65%;
   align-items: flex-end;
 }
-.div12 img{
+.div12 img {
   max-width: 600px;
-
 }
 .div13 {
   display: flex;
   flex-direction: column;
   width: 35%;
 }
-.div13 img{
+.div13 img {
   max-width: 400px;
-
 }
-.deneyim-bg{
+.deneyim-bg {
   background-image: url("./img/backi.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
-.bottom{
- background: radial-gradient(50% 110% at right top, #145915, transparent);
+.bottom {
+  background: radial-gradient(50% 110% at right top, #145915, transparent);
 }
 .div14 {
-
   display: flex;
   justify-content: space-between;
   /* padding: 40px; */
@@ -284,11 +284,10 @@ label {
   flex-direction: column;
   width: 65%;
 }
-.div20 img{
+.div20 img {
   max-width: 600px;
-
 }
-.geforce-laptop{
+.geforce-laptop {
   max-width: 400px;
 }
 .div21 {
@@ -383,12 +382,12 @@ label {
   height: 114px;
 }
 
-.list-title{
+.list-title {
   font-style: 14px;
 }
 
 .accordion {
-  background-color: #1B1C1D;
+  background-color: #1b1c1d;
   color: white;
   cursor: pointer;
   padding: 18px;
@@ -401,24 +400,23 @@ label {
   transition: 0.4s;
 }
 
-
 .panel {
   padding: 0 18px;
   display: none;
-  background-color: #1B1C1D;
+  background-color: #1b1c1d;
   overflow: hidden;
   color: white;
 }
 
 .panel li {
-  padding: .75rem 0;
+  padding: 0.75rem 0;
 }
 
-.panel li a{
+.panel li a {
   color: #a4a4a5;
   text-decoration: none;
 }
 
-.footer-mobile{
+.footer-mobile {
   display: none;
 }
